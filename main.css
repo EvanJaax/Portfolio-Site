@@ -1,0 +1,133 @@
+html {
+background-color: beige;
+}
+
+body {
+background-color: grey;
+margin: 0px;
+display: flex;
+justify-content: center;
+flex-direction: column;
+}
+
+nav {
+background-color: lightslategray;
+display: flex;
+flex-direction: row;
+justify-content: center;
+text-align: center;
+}
+
+h1 {
+    font-size: 2rem;
+    margin: 0px;
+    margin-top: 1vh;
+}
+
+h4 {
+    font-size: 1rem;
+    margin-bottom: 0px;
+    font-style: oblique;
+}
+
+main {
+background-color: black;
+margin: 0px;
+}
+
+section {
+background-color: blue;
+width: 96vw;
+height: 15vh;
+display: flex;
+justify-content: center;
+text-align: center;
+align-items: center; 
+margin: 2vh 2vw;
+}
+
+nav {
+    background-color: lightslategray;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    height: 10vh;
+    }
+    
+h1 {
+    font-size: 2rem;
+    margin: 0px;
+    margin-top: 1vh;
+}
+    
+h4 {
+    font-size: 1rem;
+    margin-bottom: 10px;
+    font-style: oblique;
+}
+
+#hero {
+background-color: honeydew;
+flex-direction: column;
+}
+
+p {
+background-color: whitesmoke;
+}
+        
+#scheduleInterview {
+background-color: khaki;
+}
+
+form {
+    
+}
+
+#myProjects {
+background-color: pink;
+height: 40vh;
+display: flex;
+flex-direction: row;
+justify-content: space-around;
+}
+
+div {
+    
+}
+
+#websites {
+    
+}
+
+#webApps {
+
+}
+
+#digitalProfiles {
+background-color: lightblue;
+height: 10vh;
+display: flex;
+flex-direction: row;
+justify-content: space-around;
+}
+
+#github {
+
+}
+    
+#linkedin {
+
+}
+
+#facebook {
+
+}
+    
+#youtube {
+
+}
+    
+#instagram {
+
+}
